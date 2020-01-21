@@ -20,6 +20,35 @@ a {
   text-decoration: none;
 }
 
+.cd-horizontal-timeline .events-content .saiba-mais {
+  background: white;
+  margin-top: 25px;
+  padding: 30px 50px 35px 50px;
+  border-radius: 20px;
+  
+  p {
+    color: #134D6D;
+  }
+
+  .more {
+    overflow: hidden;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #bfbebe;
+    padding-bottom: 20px;
+
+    img {
+      width: 35px;
+      float: left;
+      margin-right: 13px;
+    }
+    h3 {
+      color: #fe5f55;
+      font-size: 33px;
+    }
+  }
+
+}
+
 /* -------------------------------- 
 
 Main Components 
